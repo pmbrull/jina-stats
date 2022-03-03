@@ -1,0 +1,16 @@
+# This is an example YAML to test the app locally
+
+title: "Jina AI - Community Stats"
+
+client:
+  root: "api.github.com"
+  owner: "jina-ai"
+  repo: "jina"
+  start_date: "Feb 13 2020"  # Format `%b %d %Y`
+
+
+social: "
+        Come and say hi 👋\n
+        
+        [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jina-ai/jina)
+        "
